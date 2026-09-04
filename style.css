@@ -1,0 +1,9 @@
+body {
+    background-color: #f4f9ff; /* 優しい薄い青色 */
+    text-align: center;
+    font-family: sans-serif;
+    padding-top: 50px;
+}
+h1 {
+    color: #0056b3; /* 綺麗な青色 */
+}
